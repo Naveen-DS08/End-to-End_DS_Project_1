@@ -9,7 +9,7 @@ project_name = "dataScience"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
-    f"src/{project_name}/__init.py",
+    f"src/{project_name}/__init__.py",
     f"src/{project_name}/comkponents/__init__.py",
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/common.py",
